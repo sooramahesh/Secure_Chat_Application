@@ -1,1 +1,3 @@
 # Secure_Chat_Application
+
+The Secure Messaging System is a robust communication platform designed to ensure privacy and security in real-time digital interactions. Utilizing Advanced Encryption Standard (AES) in CBC mode with PKCS7 padding and SHA-256 hashed authentication, the system guarantees message confidentiality and restricts access to authorized users. Developed in Python, it employs TCP sockets on for reliable client-server communication, complemented by a user-friendly Tkinter-based GUI featuring color-coded message logs and intuitive controls. Chat history persistence enables seamless conversation continuity, while thread-safe operations and comprehensive error handling ensure operational stability.
